@@ -1,5 +1,4 @@
-# AWS Cloud Security Dashboard
-
+# AWS Cloud Threat Detection & Security Monitoring System
 ## Project Overview
 Real-time AWS Cloud Threat Detection & Alerting System using GuardDuty and Security Hub.  
 Monitors IAM and S3 for unauthorized access and account-level threats.
